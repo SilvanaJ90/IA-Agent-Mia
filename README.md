@@ -1,6 +1,5 @@
 # MIA 
-
-**MIA (Municipal Intelligence Agent) is a RAG (Retrieve-Augment-Generate) conversational agent designed to assist citizens with municipal processes by providing automated responses based on official information and public documents.
+MIA (Municipal Intelligence Agent) is a RAG (Retrieve-Augment-Generate) conversational agent designed to assist citizens with municipal processes by providing automated responses based on official information and public documents.
 
 
 ---
